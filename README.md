@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mortalpuppet
 - 👀 I’m interested in learing 
 - 🌱 I’m currently learning git
-- 📫 You can reach me at e-mail:misagh.sj@gmail.com telegram:misaq.sj
+- 📫 You can reach me at e-mail:misagh.sj@gmail.com 
 
 <!---
 mortalpuppet/mortalpuppet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
